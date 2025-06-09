@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "680f9f1f319991cf6a9c199e"
+  },
+  "name": "vanila cake",
+  "price": 40,
+  "cals": 500
+},
+{
+  "_id": {
+    "$oid": "680fa378c149d461dfed73ee"
+  },
+  "name": "choclate cake",
+  "price": 50,
+  "cals": 940,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680fa684976356ea57bda0b4"
+  },
+  "name": "banana cake 1",
+  "price": 22,
+  "cals": 940,
+  "__v": 0
+}]

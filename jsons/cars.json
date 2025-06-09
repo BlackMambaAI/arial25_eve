@@ -1,0 +1,14 @@
+[
+  {
+    "company":"Mazada",
+    "model":"6",
+    "color":"white",
+    "year":2022
+  },
+  {
+    "company":"Tesla",
+    "model":"3",
+    "color":"black",
+    "year":2022
+  }
+]

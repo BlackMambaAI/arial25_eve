@@ -1,0 +1,92 @@
+[{
+  "_id": {
+    "$oid": "680fab518a6401f6e45125e8"
+  },
+  "name": "moshe2",
+  "email": "moshe2@gmail.com",
+  "password": "$2b$10$WmWpanh7/OtCySF2GSupl.VwXPP/OMLsislPP3BkwnN1cKIcam8ra",
+  "createdAt": {
+    "$date": "2025-04-28T16:22:41.214Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-28T16:22:41.214Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680fab6d8a6401f6e45125ea"
+  },
+  "name": "koko",
+  "email": "koko@gmail.com",
+  "password": "$2b$10$Q/3MF5pGdrkQdjKHMANl/uR.Kb5H5Xl39tt5VyRBEfLcg6G2LYPyO",
+  "createdAt": {
+    "$date": "2025-04-28T16:23:09.099Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-28T16:23:09.099Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680fad1269388e6f6ebdbe11"
+  },
+  "name": "momo",
+  "email": "momo@gmail.com",
+  "password": "$2b$10$IUTF/2K5ISBJtcoqZzjxBecjQjyPYUjk/S3QEar.3/3k4ORvY084q",
+  "createdAt": {
+    "$date": "2025-04-28T16:30:10.598Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-28T16:30:10.598Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6818d8962e792ccea5ec0a85"
+  },
+  "name": "David",
+  "email": "david@gmail.com",
+  "password": "$2b$10$PIxJwg7j.K.pb.lPY4OP6OnSBG2DXkyE1pib/y5OamtZBkNJwwFeu",
+  "createdAt": {
+    "$date": "2025-05-05T15:26:14.504Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-05T15:26:14.504Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6822173ac990377d768bf8f1"
+  },
+  "name": "jack",
+  "email": "jack@gmail.com",
+  "password": "$2b$10$jN7PzL0AJC11pn/3CID1geqa8O0ksyVtW11yiUcG/gYLwA8IE5rxi",
+  "createdAt": {
+    "$date": "2025-05-12T15:43:55.043Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-12T15:43:55.043Z"
+  },
+  "__v": 0,
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "682b693f91cc37b673eaf668"
+  },
+  "name": "admin",
+  "email": "admin@walla.com",
+  "password": "$2b$10$pw114AhI8r8dZgNNaQSvheydkDwfpUsHadiZm0c9brX81IGPXqQzG",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2025-05-19T17:24:15.548Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-19T17:24:15.548Z"
+  },
+  "__v": 0
+}]

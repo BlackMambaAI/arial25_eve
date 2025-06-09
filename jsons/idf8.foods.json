@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "642a83b8b922f5f8b6306037"
+  },
+  "name": "Pizza",
+  "cals": 500,
+  "price": 30
+},
+{
+  "_id": {
+    "$oid": "642a83b8b922f5f8b6306038"
+  },
+  "name": "Cake",
+  "cals": 600,
+  "price": 25
+},
+{
+  "_id": {
+    "$oid": "642a83b8b922f5f8b6306039"
+  },
+  "name": "Icecream",
+  "cals": 500,
+  "price": 21
+},
+{
+  "_id": {
+    "$oid": "642a97eed7e93bc48611978f"
+  },
+  "name": "Pasta",
+  "cals": 300,
+  "price": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642aace72a38d40b8706c6bc"
+  },
+  "name": "Olives pizza",
+  "cals": 600,
+  "price": 20,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642ab7251e92ee746cf58436"
+  },
+  "name": "HUmus",
+  "cals": 222,
+  "price": 50,
+  "date_created": {
+    "$date": "2023-04-03T11:23:17.132Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "642ac132c88f6d2fce69d816"
+  },
+  "name": "Milkshake",
+  "cals": 222,
+  "price": 30,
+  "createdAt": {
+    "$date": "2023-04-03T12:06:10.159Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-03T12:06:10.159Z"
+  },
+  "__v": 0
+}]

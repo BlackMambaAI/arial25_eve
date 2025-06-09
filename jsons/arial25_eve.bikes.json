@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "682219b41422bfc824969b5b"
+  },
+  "company": "Honda",
+  "color": "red",
+  "year": 2020,
+  "user_id": "a21"
+},
+{
+  "_id": {
+    "$oid": "682219c51422bfc824969b5c"
+  },
+  "company": "Isuzu",
+  "color": "white",
+  "year": 2023,
+  "user_id": "a21"
+}]

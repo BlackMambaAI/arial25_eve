@@ -1,0 +1,14 @@
+צרו ROUTE ו MODEL של DRINKS שבנוי מהסכמה הבאה:
+name:String,
+calories:Number,
+price:Number
+user_id:String
+
+ותדאגו שרק משתמש רשום יוכל להוסיף רשומה ויהיה מאפיין user_id 
+שיתקבל מהטוקן כמו שעשינו ל CARS
+
+בנוסף עריכה ומחיקה משתמש יוכל לבצע רק לרשומות שלו
+
+
+וב GET הרגיל ממש כמו שעשינו  בCARS המשתמש יוכל לעשות SKIP , SORT  ו REVERSE וה LIMIT ברירת מחדל יהיה 5
+ויהיה אופציה ל COUNTER
